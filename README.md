@@ -9,7 +9,10 @@
 
 ---
 ## Life ✈
-## Projects 📽
+## Projects 
+<p>
+    <b>KSU R6 Website:</b> Created a front-end website that displays information about the team and previous teams from previous years. This includes different rosters, upcoming schedules, and records from previous seasons. This project was made for the use of the Kansas State R6 team. 
+</p>
 ## Skills 🤹‍♀️
 <p>☕ <b>Java</b><br/>
     🐍 <b>Python</b>, HTML/CSS<br/>
