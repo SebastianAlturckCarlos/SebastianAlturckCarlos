@@ -11,7 +11,7 @@
 ## Life ✈
 ## Projects 
 <p>
-    <b>KSU R6 Website:</b> Developed a front-end website that displays information about the team and previous teams from previous years. This includes different rosters, upcoming schedules, and records from previous seasons. This project was made for the use of the Kansas State R6 team. 
+    <b>KSU R6 Website:</b> Developed a front-end website that displays information about the team and previous teams from previous years. This includes different rosters, upcoming schedules, and records from previous seasons. This was made for the use of the Kansas State R6 team. 
     <br/><b>Chipotle UI:</b> Developed an application that Chipotle would use if they were to have a self-serve UI. This application made it easy to order items and then receive a receipt for the items if paid.
 </p>
 
