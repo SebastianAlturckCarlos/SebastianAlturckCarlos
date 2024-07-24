@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hello, I'm Will Whitehead! 👋
+# ⚒ Welcome! I'm Sebastian Alturck-Carlos ⚒
 
-[![Linkedin Badge](https://img.shields.io/badge/-WillWhitehead122-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willwhitehead122/)](https://www.linkedin.com/in/willwhitehead122/)
-[![Website Badge](https://img.shields.io/badge/-whitehead.wiki-blue?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://whitehead.wiki)](https://whitehead.wiki)
+[![Linkedin Badge](https://img.shields.io/badge/-SebastianAlturckCarlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-alturck-carlos/)](https://www.linkedin.com/in/sebastian-alturck-carlos/)
 
 </div>
 
