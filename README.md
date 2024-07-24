@@ -1,7 +1,7 @@
 # 🙌 Sebastian Alturck-Carlos
 
 ## Life
-### Skills
+## Skills
 <p>Java<br/>
     Python<br/>
     C#, C<br/>
