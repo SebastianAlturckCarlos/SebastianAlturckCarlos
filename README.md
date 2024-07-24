@@ -9,7 +9,7 @@
 
 ---
 ## Life ✈
-## Project 📽
+## Projects 📽
 ## Skills 🤹‍♀️
 <p>☕ <b>Java</b><br/>
     🐍 <b>Python</b>, HTML/CSS<br/>
