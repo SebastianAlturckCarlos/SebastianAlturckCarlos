@@ -1,6 +1,6 @@
 <div align="center">
 # 🙌 Welcome! I'm Sebastian Alturck-Carlos
-    [![Linkedin Badge](https://img.shields.io/badge/-SebastianAlturckCarlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-alturck-carlos/)](https://www.linkedin.com/in/sebastian-alturck-carlos/)
+    [![Linkedin Badge](https://img.shields.io/badge/-WillWhitehead122-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willwhitehead122/)](https://www.linkedin.com/in/willwhitehead122/)
 </div>
 
 ---
