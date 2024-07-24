@@ -3,7 +3,7 @@
 ## Life
 ## Skills
 <p>☕ <b>Java</b><br/>
-    🐍 <b>Python</b><br/>
+    🐍 <b>Python</b>, HTML/CSS<br/>
     😁 <b>C#</b>, C<br/>
    ⚒ <b>VS 2022</b>, VS Code
 </p>
