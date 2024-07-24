@@ -11,10 +11,6 @@
     😁 <b>C#</b>, C<br/>
    ⚒ <b>VS 2022</b>, VS Code
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align="right" style="padding-right:30px;">
-
-
-
 ###
 
 <img align="right" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -27,6 +23,11 @@
 
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align="right" style="padding-right:30px;">
+
+
+
+
 <div vertical-align="bottom" style="padding-top:400px;">
 <img src="https://github-readme-stats.vercel.app/api?username=SebastianAlturckCarlos&show_icons=true&theme=radical" />
 </div>
