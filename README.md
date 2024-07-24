@@ -11,6 +11,8 @@
 ## Life ✈
 <p> I'm studying Computer Science and Cyber Security at Kansas State University while pursuing a minor in Mathematics. My expected graduation date is May 2026. I participate in the KSU Marching Band while also directing an E-Sports team for KSU E-Sports. For my successes, I have been put on scholarship for both of these extracurriculars.
 </p>
+
+
 ## Projects 
 <p>
     <b>KSU R6 Website:</b> Developed a front-end website that displays information about the team and previous teams from previous years. This includes different rosters, upcoming schedules, and records from previous seasons. This was made for the use of the Kansas State R6 team. 
