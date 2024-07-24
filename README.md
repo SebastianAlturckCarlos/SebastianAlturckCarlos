@@ -1,5 +1,7 @@
-# 🙌 Sebastian Alturck-Carlos
-
+<div align="center">
+# 🙌 Welcome! I'm Sebastian Alturck-Carlos 🙌
+    [![Linkedin Badge](https://img.shields.io/badge/-Sebastian-Alturck-Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willwhitehead122/)](www.linkedin.com/in/sebastian-alturck-carlos/)
+</div>
 ## Life
 ## Skills
 <p>☕ <b>Java</b><br/>
