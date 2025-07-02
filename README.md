@@ -24,7 +24,7 @@
 ## Skills 🤹‍♀️
 <p>☕ <b>Java</b><br/>
     🐍 <b>Python</b>, HTML/CSS<br/>
-    😁 <b>C#</b>, C<br/>
+    😁 <b>C#</b>, C, JavaScript, TypeScript<br/>
    ⚒ <b>VS 2022</b>, VS Code
     <img align="right" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="right" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
